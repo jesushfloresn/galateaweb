@@ -1,0 +1,16 @@
+.probootstrap-slider .btn-success{
+  background-color: #008EAE;
+}
+
+.probootstrap-logo span img{
+  display: inline-block;
+  max-width: 120px;
+}
+
+
+.dg-section-listpropertys .dg-content-name{
+    font-size: 0.9em !important;
+    min-height: 216px !important;
+    max-height: 216px !important;
+    overflow: hidden !important;
+}
